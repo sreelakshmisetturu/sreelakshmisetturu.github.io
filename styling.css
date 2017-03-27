@@ -1,0 +1,49 @@
+@CHARSET "ISO-8859-1";
+
+.navbar-custom {
+    //background-color:#77b300;
+    background-color:#4d0066;
+}
+/* .navbar-brand{
+	font-size: 180% !important;
+}
+.navbar-left{
+	position: relative;
+	left: 12% !important;
+}  */
+.A{
+	color:white ;
+	font-family: cursive;
+	font-style: italic;
+	cursor: pointer;
+} 
+.B{
+	color:Black;
+	font-family: Caflisch Script cursive ;
+	font-style: italic;
+} 
+.C{
+	color:black;
+	font-family: Apple Chancery fantasy;
+	font-style: italic;
+} 
+.D{
+	color:black;
+	font-family:Brush Script Std cursive;
+	font-style: italic;
+}
+.headingskills{
+	background-color:#4d0066 !important;
+	color:white !important;
+	
+}
+ul.nav a:hover { color: Black !important; }
+
+a{
+text-decoration: none;
+}
+.projects{
+	border-color: #4d0066 !important;
+	outline-color: #4d0066 !important;
+	
+}
